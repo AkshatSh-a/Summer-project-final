@@ -47,7 +47,7 @@ async function getResponseFromAPI(userQuery) {
       },
       body: JSON.stringify({
           model: 'gpt-3.5-turbo',
-          messages: [{ role: 'user', content: `Provide a brief and concise answer: ${userQuery}` }],
+          messages: [{ role: 'user', content: `Provide a brief and concise answer, that is related toconsumer rights or something related to consumer products: ${userQuery}` }],
           max_tokens: 100
       })
   });
