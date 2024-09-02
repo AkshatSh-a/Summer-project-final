@@ -1,0 +1,5 @@
+                <a href="english.html" class="subject-link">English</a>
+                <a href="science.html" class="subject-link">Science</a>
+                <a href="math.html" class="subject-link">Math</a>
+                <a href="ai.html" class="subject-link">AI</a>
+                <a href="sst.html" class="subject-link">SST</a>
